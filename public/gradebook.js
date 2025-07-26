@@ -60,6 +60,6 @@ function populateGradebook(data) {
   // Am i actually to remove this?
   // TODO: REMOVE THIS
   // Call the stubs to domonstrate the workflow
-  const gradebook = fetchGradeData();
-  populateGradebook();
+  fetchGradeData();
+  //populateGradebook();
   // END REMOVE
